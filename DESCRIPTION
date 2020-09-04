@@ -1,0 +1,15 @@
+Package: MEP
+Title: Microbiome Enrichment Program Analytic Tools
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Michael",
+           family = "Woodworth",
+           role = c("aut", "cre"),
+           email = "mwoodwo@emory.edu",
+           comment = c(ORCID = "0000-0002-6181-4599"))
+Description: The MEP package was developed for analysis and visualization of microbiome data generated from clinical and translational trials.  The most repetitive steps from our post-processing and analytic flow are consolidated as functions for reproducibility and efficiency.
+License: `use_mit_license()`
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1.9000
