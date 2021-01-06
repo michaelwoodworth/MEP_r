@@ -17,6 +17,5 @@ and returns a cleaned data frame for further analyses.
 }
 \examples{
 bracken_clean(data = "bracken_s")
-data \%>\% bracken_clean(min_abund=0.05)
 }
 \keyword{MEP}

@@ -9,7 +9,6 @@
 #' @export
 #' @examples
 #' bracken_clean(data = "bracken_s")
-#' data %>% bracken_clean(min_abund=0.05)
 
 bracken_clean <- function(data, min_abund=0.01){
 
