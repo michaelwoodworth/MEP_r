@@ -4,7 +4,7 @@
 \alias{bracken_clean}
 \title{Clean Bracken}
 \usage{
-bracken_clean(data, min_abund = 0.01)
+bracken_clean(data, min_abund = 0.01, frac_or_num = "frac")
 }
 \arguments{
 \item{data}{input data (can be piped from readR etc.)}
